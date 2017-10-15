@@ -265,3 +265,16 @@ allinurl:%3Dhttps*
 allinurl:%253Dhttps*
 allinurl:%3Dhttp*
 allinurl:%253Dhttp*
+
+allinurl:"<keyword>=https"
+allinurl:"<keyword>=http"
+allinurl:<keyword>=https
+allinurl:<keyword>=http
+allinurl:<keyword>%3Dhttps
+allinurl:<keyword>%3Dhttps*
+allinurl:<keyword>%253Dhttps
+allinurl:<keyword>%253Dhttps*
+allinurl:<keyword>%3Dhttp
+allinurl:<keyword>%3Dhttp*
+allinurl:<keyword>%253Dhttp
+allinurl:<keyword>%253Dhttp*

@@ -280,3 +280,5 @@ allinurl:<keyword>%253Dhttp
 allinurl:<keyword>%253Dhttp*
 
 Instead of <keyword>, we would use one of the following words typical of redirects: RelayState, ReturnUrl, RedirectUri, Return, Return_url, Redirect, Redirect_uri, Redirect_url, RedirectUrl, Forward, ForwardUrl, Forward_URL, SuccessUrl, Redir, Exit_url, Destination. This is by no means a comprehensive list of keywords. You can find more by analyzing results from the more general queries looking for a URL in the parameter section of the GET request.
+
+For targeted searches, you can add "site:<domain_name>" to the end of your Google Queries. This can help you identify Open Redirect vulnerabilities on your own website.

@@ -260,3 +260,8 @@ http://www.whitelisteddomain.tld:80%40google.com/
 http://www.whitelisteddomain.tld%2egoogle.com/
 /x:1/:///%01javascript:alert(document.cookie)/
 /https:/%5cgoogle.com/
+https://www.example.com/login.html?RelayState=http%3A%2F%2Fexample.com%2Fnext
+allinurl:%3Dhttps*
+allinurl:%253Dhttps*
+allinurl:%3Dhttp*
+allinurl:%253Dhttp*
